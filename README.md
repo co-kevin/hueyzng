@@ -1,1 +1,3 @@
-Hi, I'm Huey Zhang. Full Stack Engineer. Be interested in something new. Lifelong learning.
+Worked as a technical lead, pre-sales solution, architect, DevOps, consultant.
+
+Well-rounded skills and pursuit of technical excellence
