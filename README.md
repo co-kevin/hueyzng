@@ -1,1 +1,1 @@
-Worked as a tech lead, full-stack engineer, pre-sales solution, specializing in front and back-end development and DevOps.
+Worked as a tech lead. Specializing in web application and DevOps.
