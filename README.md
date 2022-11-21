@@ -1,1 +1,1 @@
-An unusual full-stack engineer.
+An unusual full stack engineer.
